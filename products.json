@@ -1,0 +1,323 @@
+{
+  "products": [{
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "discount":25,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "question1":"Is it waterproof ?",
+    "answer1":"Its splash Proof, it doesnt absorb water but can not keep in water for long time.",
+    "question2":"Can put the Bibble?",
+    "answer2":"It depend upon the size of Bibble, if it matched then it may fit.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  }, {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "discount":10,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "question1":"What's the difference between a basic T-shirt and a premium t shirt?",
+    "answer1":"Regular tee: This is your everyday, form-fitting crew-neck tee. Comfy softness, classic look & fit. Premium tee: High-quality tee that offers a much smoother, silky feel and more structured, mid-weight fit than the regular tee. Tri-blend: A fan favorite with a vintage look and broken-in, form-fitting, soft feel.",
+    "question2":"What is a premium fitted T-shirt?",
+    "answer2":" Premium shirts are built to have a fashion fit, so they are a little tighter than the basic shirts. For this reason, we suggest that some customers order a size larger than normal. Personally, I can wear Large but they are a little snug. I typically wear Extra Large to be a little more comfortable.",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  }, {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "discount":25,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "question1":"Is a cotton jacket warm?",
+    "answer1":"They make great outer-layer jackets for cold weather. Cotton — Clothing made of cotton is not good for cold weather. It absorbs moisture and traps it next to your skin. Save the cotton for summer, when you might want a little extra moisture to keep you cool.",
+    "question2":"Are cotton jackets good?",
+    "answer2":"Cotton often has water and dust resistance, but that only depends on the quality of the fabric. Any jacket made of 100% cotton will offer resistant support. Cotton is consistent it remains the same after many wears and washes. With little care, it can last several years and still look great.",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  }, {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "discount":20,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "question1":"What are full sleeve shirts called?",
+    "answer1":"Raglan sleeves can also be categorized as long sleeve T-shirts, and are sometimes known as baseball players T-shirts. The sleeves are attached to the T- Shirt using a diagonal seam rather than the more traditional up and down the straight seam, giving the Raglan T-shirt the look that it's known for.",
+    "question2":"What are the 4 types of clothes?",
+    "answer2":"Casual wear worn as standard clothing. Formal wear  worn for events such as weddings. Lingerie under garments worn for support and / or decoration. Sports wear worn for athletic activites like running.",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  }, {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "discount":25,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "question1":"Is gift wrapping and packaging available ?",
+    "answer1":"Offering gift wrap and a handwritten note. Just leave me your message.",
+    "question2":"Wholesale availability?",
+    "answer2":"Contact me and we negotiate it together about the deal.",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  }, {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "discount":20,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "question1":"Is it waterproof ?",
+    "answer1":"Its splash Proof, it doesnt absorb water but can not keep in water for long time.",
+    "question2":"Is the item durable?",
+    "answer2":"This is long lasting item. you can use it by long run.",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  }, {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "discount":10,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "question1":"Is it waterproof ?",
+    "answer1":"Its splash Proof, it doesnt absorb water but can not keep in water for long time.",
+    "question2":"Is this easy to use?",
+    "answer2":"Ofcourse you can use this easily.",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  }, {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "discount":20,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "question1":"Is this pure gold?",
+    "answer1":"This is not a gold ring. This is rose gold plated colored ear rings.",
+    "question2":"Warranty for this product?",
+    "answer2":"There is no warranty for this product. since, this is a rold gold product.",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  }, {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "discount":30,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "question1":"Is WD Elements hard drive good?",
+    "answer1":"The WD Elements Portable drive is an excellent alternative to the Seagate Expansion. While the two drives are very similar in most aspects, the Expansion is faster but the Element is cheaper. Also, in my opinion, the Elements is slightly better-looking.",
+    "question2":"How long does WD Elements external hard drive last?",
+    "answer2":"The simplest answer is that they can run smoothly for three to five years.",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  }, {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "discount":25,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "question1":"Is SanDisk SSD Plus good?",
+    "answer1":"With decent performance and very affordable pricing, the SanDisk Ultra Plus makes a great investment for those who want to upgrade their computer's main hard drive to an SSD.",
+    "question2":"What is the difference between SSD and SSD plus?",
+    "answer2":"Quick Summary. When you compared the similar capacities, the SanDisk Ultra 3D SSD is slightly faster than the SanDisk SSD Plus at maximum sequential read speeds. The Ultra 3D SSD is also quite a bit faster than SSD Plus when it comes to maximum sequential write speeds.",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  }, {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "discount":30,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "question1":"Will it work with Alienware laptop?",
+    "answer1":"I am not sure which variant of alienware you have but as long as it supports sata 3 and has a HDD slot for up to 7mm it will work. Some modern units come with only msata or m.2 module and those won't support this.",
+    "question2":"Does the work on hp 15-da0a352tu laptops? please reply",
+    "answer2":"yes it works",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  }, {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "discount":20,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "question1":"Does WD 4TB work with PS4?",
+    "answer1":"With the WD Gaming Drive, you can quickly and easily expand the capacity on your PS4™* console by up to 4TB to conquer boundless new worlds.",
+    "question2":"Is WD Elements external hard drive compatible with PS4?",
+    "answer2":"WD 2TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0020BBK-WESN.",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  }, {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "discount":50,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "question1":"Is the Acer SB220Q bi good for gaming?",
+    "answer1":"The Acer SB220Q price amounts to only ~$90 making it one of the best monitors under $100 due to its stunning image quality, smooth performance, modern design, and selection of gaming features.",
+    "question2":"Does the Acer SB220Q BI have speakers?",
+    "answer2":"Unlike the Sony X720E, which has (admittedly poor) built-in speakers, the SB220Q bi decided to forgo any speakers on this TV (if you're looking for a TV with integrated speakers, check out the Samsung NU6900 55!).",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  }, {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "discount":30,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "question1":"Is the Samsung CHG90 worth it?",
+    "answer1":"Overall, the Samsung CHG90 offers an exciting viewing and gaming experience at a reasonable price. However, at this price range, you can also get a gaming monitor without some of its big issues, such as slow response time, imperfect VRR performance, and low pixel density.",
+    "question2":"What is a 49-inch ultrawide monitor equivalent to?",
+    "answer2":"Featuring a 49-inch screen and an ultra-wide 32:9 aspect ratio, this monitor offers roughly the equivalent of two 27-inch 16:9 monitors--except with no misalignment issues, extra cables, or bezels to clutter your view.",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  }, {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "discount":25,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "question1":"It is completely with fur?",
+    "answer1":"yes inside it is total fur.",
+    "question2":"It is suitable for 8 year girl?",
+    "answer2":"No.",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  }, {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "discount":25,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "question1":"I am a bigger girl and want to make sure it will fit since I wear different sizes in different brands. 42DD and wide hips so not sure if 2x is big eno?",
+    "answer1":"I wear between XL and 1X, wide hips and close in bust size and was concerned about mine being tight across the back/shoulders and upper arms. I ordered a 2X and the jacket fits but not comfortably. Also it is cut very short. I love the softness and quality of the jacket but would order at least a 3X and I'm not sure that would be as comfortably fitting as I would like. They run very small!",
+    "question2":"How durable is this jacket? Will it last longer than the fall/winter season?",
+    "answer2":"Very durable. It probably weighs 8 pounds. I can see this jacket lasting for years. It's well-made. The leather feels super soft.",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  }, {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "discount":20,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "question1":"My Wife is 5.6' and 130lb. What size should I get ?",
+    "answer1":" Size Small maybe fits you better",
+    "question2":"Is this jacket good for getting across campus in the fall weather? Temps will be dropping soon so I dont want it too light weight for Michigan autumn.",
+    "answer2":"It is very light weight.",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  }, {
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "discount":15,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "question1":"I'd like to wear this with leggings, does it cover your rear?",
+    "answer1":"I am 5'6 and 250 lbs.... I have a little bit of a belly, and I ordered the 3x... it fits me really well with enough length to cover most of my bottom. If I went up one size I bet it would cover me completely. I was very happy with my purchase. Very soft, well sewn..",
+    "question2":"What's the difference between wt1037and wt717?",
+    "answer2":"The only difference, I think, is that 817 is a scoop neck and 1037 is a V-neck.",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  }, {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "discount":10,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "question1":"How long is the shirt in inches?",
+    "answer1":"I am 5'8 tall and prefer longer shirts. This shirt goes a little past my hips.",
+    "question2":"I do a lot of yoga....will the neckline stay in place during asanas like down dog? Thanks.",
+    "answer2":"I also do yoga; however, I haven't worn this particular top to class as of yet. I will advise you that the fabric is very silky and movable. However, it is extra long in length and for my 34C bust, a medium is very roomy. The fit is very comfortable and would be flexible for any yoga class. I love to wear it around the house and would even consider it to sleep in with PJ bottoms. Hope this helps. ",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  }, {
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "discount":20,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "question1":"How deep is the v-neck?",
+    "answer1":"It's V is like a regular V, and not so low that cleavage shows. So a comfortable modest V neck.",
+    "question2":"Is this a feminine fit or regular t shirt fit?",
+    "answer2":"I would say feminine fit if you get the exact size that you currently wear. True size for sure, I wear Medium size (I like to wear my tops feminine fit) but since I wasn't sure about I ordered Large and is not tight fit. I'll definitely recommend your true size. The fabric it's soft but little thick at the same time, love it.",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  }]
+}
